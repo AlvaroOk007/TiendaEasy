@@ -1,11 +1,19 @@
-👋¡Hola, Soy Álvaro Bravo!👋
+# 👋 ¡Hola! Soy Álvaro Bravo 👋
 
-Soy Desarrolador Web Trainee, estoy cursando mi segundo año de la Tecnicatura en programacion en la Universidad de Hurlingham, me gusta desarrollar paginas webs desde cero con las mejores practicas y faciles de utilizar.
+Soy Desarrollador Web Trainee y actualmente curso mi segundo año de la Tecnicatura en Programación en la Universidad de Hurlingham. Me apasiona crear páginas web desde cero, aplicando las mejores prácticas y buscando siempre que sean fáciles de usar y accesibles para los usuarios.
 
-✅Las tecnologias que manejo son:
+## Descripción del proyecto:
+Este repositorio contiene una maquetación de la página web de Easy, realizada utilizando tecnologías web básicas para poner en práctica conceptos de diseño y estructura.
 
-🔹 HTML 🔹 CSS 🔹 JAVASCRIPT 🔹 PYTHON 🔹 BOOTSTRAP
+## Tecnologías utilizadas:
 
-📌 Puedes encontrarme en:
+1. CSS puro
+2. JavaScript puro
+3. HTML
 
-🔹 Linkedin : https://www.linkedin.com/in/inalvarobravo 🔹 Instagram : https://www.instagram.com/alvaro_f_bravo 🔹 GitHub : https://github.com/AlvaroOk007
+## Puedes encontrarme en:
+
+* LinkedIn
+* Instagram
+* GitHub
+
